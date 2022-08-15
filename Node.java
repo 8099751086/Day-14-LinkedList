@@ -2,7 +2,8 @@ package com.linkedlist;
 
 /**
  * dilwar hussain
-
+ 
+ 
  */
 
 public class Node<T> {
