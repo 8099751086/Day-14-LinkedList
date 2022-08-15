@@ -1,17 +1,16 @@
 package com.linkedlist;
-
 /**
- * dilwar hussain
- 
- 
- */
+* dilwar hussain
+
+
+*/
 
 public class Node<T> {
+
 	T data;
 	Node<T> next;
 
 	public Node(T data) {
 		this.data = data;
 	}
-
 }
