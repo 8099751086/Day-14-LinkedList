@@ -1,7 +1,7 @@
 package com.linkedlist;
 
 /**
- * dilwar hussain
+ * DILWAR
  
   
  */
